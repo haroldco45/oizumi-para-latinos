@@ -1,0 +1,26 @@
+{
+  "name": "Oizumi para Latinos — Guía de supervivencia en Japón",
+  "short_name": "Oizumi",
+  "description": "App bilingüe para latinos en Oizumi (Gunma, Japón): tarjeta de residencia y trámites, trabajo en fábricas y agencias, salud, sismos y desastres, basura, japonés con audio y ayuda en español.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFFFF",
+  "theme_color": "#EB0A1E",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
